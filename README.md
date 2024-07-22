@@ -1,10 +1,13 @@
 ## nenex
 [![Twitter: nenex_](https://img.shields.io/twitter/follow/nenex?style=social)](https://twitter.com/r2e8l)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinyaa&layout=compact&&hide=HTML" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rinyaaa" />
-</p>
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinyaaa&theme=gruvbox)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rinyaaa&theme=gruvbox)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rinyaaa&theme=gruvbox)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rinyaaa&theme=gruvbox&utcOffset=9)
+
+
 
 ## トロフィー
 <div>
