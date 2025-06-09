@@ -1,7 +1,7 @@
 # nenex
 [![Twitter: nenex_](https://img.shields.io/twitter/follow/nenex?style=social)](https://twitter.com/r2e8l)
 
-## 2025技育CAMP最優秀賞🥇
+## 2025技育CAMPvol.4最優秀賞🥇
 
 <img width="400" height="300" alt="yohaku" src="https://github.com/user-attachments/assets/98ea0b1c-bbff-4c43-9c09-8ddd879119cb" />
 
