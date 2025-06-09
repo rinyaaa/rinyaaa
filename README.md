@@ -3,7 +3,7 @@
 
 #2025技育CAMP最優秀賞🥇
 
-<img width="700" height="500" alt="yohaku" src="https://github.com/user-attachments/assets/98ea0b1c-bbff-4c43-9c09-8ddd879119cb" />
+<img width="400" height="200" alt="yohaku" src="https://github.com/user-attachments/assets/98ea0b1c-bbff-4c43-9c09-8ddd879119cb" />
 
 
 
