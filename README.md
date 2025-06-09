@@ -1,5 +1,9 @@
-## nenex
+# nenex
 [![Twitter: nenex_](https://img.shields.io/twitter/follow/nenex?style=social)](https://twitter.com/r2e8l)
+
+#2025技育CAMP最優秀賞🥇
+<img width="747" alt="スクリーンショット 2025-06-09 13 09 22" src="https://github.com/user-attachments/assets/98ea0b1c-bbff-4c43-9c09-8ddd879119cb" />
+
 
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rinyaaa&theme=gruvbox)
